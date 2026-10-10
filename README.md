@@ -1,216 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2e97,35:8b5cf6,70:3b82f6,100:06ffa5&height=260&section=header&text=THE%20BACHELORS&fontSize=72&fontColor=ffffff&stroke=ffffff&strokeWidth=1&fontAlignY=42&desc=%F0%9F%8E%93%20single%20%E2%80%A2%20ready%20to%20commit%20%E2%80%A2%20open%20to%20pull%20requests&descSize=20&descAlignY=66&animation=twinkling" width="100%" alt="The Bachelors"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,60:111827,100:1f2937&height=230&section=header&text=THE%20BACHELORS&fontSize=62&fontColor=f9fafb&fontAlignY=42&desc=a%20cross-university%20developer%20community&descSize=18&descAlignY=64&descColor=f59e0b&animation=fadeIn" width="100%" alt="The Bachelors"/>
 
 <a href="https://github.com/The-Bachelors/Community">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=700&color=FF2E97&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%9A%80+Many+universities.+One+squad.;%F0%9F%92%BB+Learn+it.+Break+it.+Fix+it.+Ship+it.;%F0%9F%A4%9D+Zero+gatekeeping.+Infinite+vibes.;%E2%9C%A8+Your+first+pull+request+starts+here." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=760&height=40&lines=%24+git+clone+the-bachelors%2Fcommunity;%24+learn+--in-public+--with-friends;%24+ship+small.+review+kindly.+repeat.;%24+echo+%22your+first+PR+starts+here%22" alt="typing"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/The-Bachelors/Community"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_ENTER-THE_COMMUNITY-ff2e97?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://github.com/The-Bachelors/Community/issues"><img src="https://img.shields.io/badge/%F0%9F%92%A1_DROP-AN_IDEA-8b5cf6?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://github.com/The-Bachelors/Community/pulls"><img src="https://img.shields.io/badge/%F0%9F%94%80_SEND-A_PR-3b82f6?style=for-the-badge&labelColor=1a1a2e"/></a>
-<img src="https://img.shields.io/badge/%F0%9F%8E%93_ALL-UNIVERSITIES_WELCOME-06ffa5?style=for-the-badge&labelColor=1a1a2e"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/vibes-immaculate-ff2e97?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/gatekeeping-0%25-06ffa5?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/bugs-features_in_disguise-8b5cf6?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/coffee-required-f59e0b?style=flat-square&labelColor=1a1a2e&logo=buymeacoffee&logoColor=white"/>
-<img src="https://img.shields.io/badge/stack_overflow-visited_daily-3b82f6?style=flat-square&labelColor=1a1a2e&logo=stackoverflow&logoColor=white"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
-
-## 👋 Wait... who are we?
-
-> **The Bachelors** = students doing their bachelor's, from *different universities*, all in one place, all hungry to learn by **actually building stuff.** 🔥
-
-No boring lectures here. No "you should already know this." Just a squad of curious humans writing code, reviewing each other's work, breaking things on purpose, and leveling up together.
-
-<div align="center">
-
-| 🎒 You bring | 🎁 We bring |
-|:---:|:---:|
-| Curiosity & a laptop | A crew that actually answers your questions |
-| Your university's energy | Cross-campus collabs & fresh perspectives |
-| Your messy first commits | Friendly code reviews (no roasting, promise) |
-| Your wild project ideas | A place to turn them real |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
-
-## 🎮 Pick Your Character
-
-Everybody starts somewhere. Which one are you?
-
-<div align="center">
-
-| | Class | Your mission | Starter quest |
-|:-:|:--|:--|:--|
-| 🌱 | **The Newbie** | Just discovered `git` and it's scary | Add your intro file via PR |
-| 🔨 | **The Builder** | Loves making things | Ship a small project or example |
-| 🔍 | **The Reviewer** | Eagle eyes for clean code | Review a teammate's pull request |
-| 🧙 | **The Mentor** | Been there, debugged that | Help a newbie unstick their branch |
-| 💡 | **The Dreamer** | Head full of ideas | Open an issue and pitch it |
-
-</div>
-
-> 💬 *Plot twist: you'll end up playing all five.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
-
-## ⚡ Your First PR Speedrun
-
-> ⏱️ Target time: **under 10 minutes.** Beat your own record. 🏁
-
-```bash
-# 🍴 1. Fork the Community repo on GitHub (big button, top right)
-
-# 📥 2. Clone YOUR fork
-git clone https://github.com/<your-username>/Community.git
-cd Community
-
-# 🌿 3. Make your own branch (never touch main!)
-git checkout -b your-name/what-you-are-doing
-
-# ✍️ 4. Do something awesome, then save it
-git add .
-git commit -m "docs: add my intro 👋"
-
-# 🚀 5. Launch it into the cloud
-git push origin your-name/what-you-are-doing
-```
-
-**6. 🔀 Open a Pull Request** → click **Compare & pull request** → write a title → smash **Create**.
-
-**7. 🎉 Celebrate.** You're officially a contributor now.
-
-<details>
-<summary><b>😵 Something broke? Click here</b></summary>
 <br/>
 
-- **"Permission denied" when pushing?** You probably cloned the main repo instead of your fork. Re-clone your fork.
-- **Merge conflict?** Breathe. Pull the latest `main`, fix the marked lines, commit again. Ask the squad if stuck.
-- **Committed to `main` by accident?** Don't panic. Make a new branch from where you are and ask for help before pushing.
-- **Totally lost?** Open an issue titled `help me pls 🆘`. Someone will rescue you.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
-
-## 🕹️ The Roadmap (a.k.a. Level Select)
-
-```text
- LEVEL 1  🟢  Spawn Point        ▰▰▰▰▰▰▰▰▰▱  90%   Community setup + Git & GitHub onboarding
- LEVEL 2  🟡  Skill Tree         ▰▰▰▱▱▱▱▱▱▱  30%   Learning tracks & shared resources
- LEVEL 3  🟠  Co-op Mode         ▰▱▱▱▱▱▱▱▱▱  10%   Group projects & review sprints
- LEVEL 4  🔴  Boss Fight         ▱▱▱▱▱▱▱▱▱▱   0%   Cross-university hackathons & events
- LEVEL ∞  🌈  Endgame            ▱▱▱▱▱▱▱▱▱▱   ??   Open-source projects with real users
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
-
-## 🧰 Our Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,py,cpp,js,html,css&theme=dark&perline=10" alt="tools"/>
-
-<sub>🔮 and whatever new thing someone convinces us to try next</sub>
+<a href="https://github.com/The-Bachelors/Community"><img src="https://img.shields.io/badge/community-enter-f59e0b?style=flat-square&labelColor=0b0f14&logo=github&logoColor=white"/></a>
+<a href="https://github.com/The-Bachelors/Community/issues"><img src="https://img.shields.io/badge/issues-pitch_an_idea-e5e7eb?style=flat-square&labelColor=0b0f14"/></a>
+<a href="https://github.com/The-Bachelors/Community/pulls"><img src="https://img.shields.io/badge/pull_requests-welcome-34d399?style=flat-square&labelColor=0b0f14"/></a>
+<img src="https://img.shields.io/badge/universities-all_welcome-60a5fa?style=flat-square&labelColor=0b0f14"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
+<br/>
 
-## 📜 The Squad Code
+## `$ whoami`
+
+**We're undergrads from different universities who got tired of learning alone.**
+
+The Bachelors is a place to write real code with real people: open a branch, get a review, fix it, merge it, repeat. It doesn't matter which campus you're on, what you're majoring in, or how many `git` commands you remember. If you're curious and willing to ship, you belong here.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ✅ Do this
-- 🌿 Branch before you build
-- 💬 Write commit messages humans can read
-- 🤗 Be kind in reviews, always
-- 🙋 Ask questions. All of them.
-- 🎉 Hype up your teammates
-- 🔄 Pull `main` before starting new work
+**Learn in public**<br/>
+<sub>Questions, half-finished ideas and mistakes all belong in the open. That's how everyone gets better faster.</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ❌ Not this
-- 🚫 Pushing straight to `main`
-- 🚫 Merging your own PR unreviewed
-- 🚫 Passing off others' work as yours
-- 🚫 Roasting someone's code (or them)
-- 🚫 Leaving `final_final_v2_REAL.cpp` in the repo
-- 🚫 Being a jerk. Just no.
+**Review with kindness**<br/>
+<sub>Feedback is how we grow. We critique the code, never the person who wrote it.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Ship small, ship often**<br/>
+<sub>A tiny merged pull request beats a perfect one that never leaves your laptop.</sub>
 
 </td>
 </tr>
 </table>
 
-**Commit like a pro:**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
 
-| Prefix | Meaning | Example |
+## `$ git log --community`
+
+A typical week around here, roughly:
+
+```text
+a3f9c21  Mon  docs: new members introduce themselves
+7be10d4  Tue  feat: someone adds a sorting visualizer nobody asked for
+c92e5a8  Wed  fix: three people spot the same off-by-one, politely
+51d8b07  Thu  review: "nice approach, have you considered a hashmap?"
+e04f7a3  Fri  merge: first-ever contribution from a student at a new university
+```
+
+<sub>Illustrative, but this is the rhythm we're building toward.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
+
+## `$ ./join.sh`
+
+Your first contribution takes about ten minutes.
+
+```bash
+# 1. Fork the Community repo on GitHub, then clone your fork
+git clone https://github.com/<your-username>/Community.git
+cd Community
+
+# 2. Work on a branch, never on main
+git checkout -b your-name/what-you-are-doing
+
+# 3. Make your change, then save it
+git add .
+git commit -m "docs: add my introduction"
+
+# 4. Push it up
+git push origin your-name/what-you-are-doing
+```
+
+Then open GitHub, click **Compare & pull request**, give it a clear title, and submit. A teammate will review it, and once it's approved, it's merged. That's the whole loop.
+
+<details>
+<summary><b>Something went wrong?</b></summary>
+<br/>
+
+| Problem | Likely fix |
+|:--|:--|
+| `Permission denied` on push | You cloned the main repo instead of your fork. Re-clone your fork. |
+| Merge conflict | Pull the latest `main`, resolve the marked lines, commit again. |
+| Committed to `main` by accident | Stop, don't push. Ask for help in an issue first. |
+| Totally lost | Open an issue titled `need help`. Someone will pick it up. |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
+
+## `$ ls ways-to-contribute/`
+
+| | What it looks like | Good for |
 |:--|:--|:--|
-| `feat:` | Something new ✨ | `feat: add linked list example` |
-| `docs:` | Notes & docs 📝 | `docs: add intro file` |
-| `fix:` | Squashed a bug 🐛 | `fix: correct loop condition` |
-| `style:` | Prettier, same logic 💅 | `style: format code` |
+| **Write** | Notes, guides, cheat sheets, code examples | Anyone, especially beginners |
+| **Build** | Small projects and experiments, solo or in teams | Learning by doing |
+| **Review** | Reading pull requests and leaving thoughtful feedback | Sharpening your eye for clean code |
+| **Mentor** | Helping newer members through their first Git workflow | Teaching to learn deeper |
+| **Propose** | Opening issues with ideas, bugs and improvements | Shaping where we go next |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
 
-## 🤔 Quick FAQ
+## `$ cat roadmap.md`
+
+```mermaid
+flowchart LR
+    A["<b>Now</b><br/>Community setup<br/>Git & GitHub onboarding"] --> B["<b>Next</b><br/>Learning tracks<br/>Shared resources"]
+    B --> C["<b>Then</b><br/>Group projects<br/>Review sprints"]
+    C --> D["<b>Later</b><br/>Cross-university<br/>events & hackathons"]
+    D --> E["<b>Eventually</b><br/>Open-source projects<br/>with real users"]
+
+    classDef now fill:#f59e0b,stroke:#f59e0b,color:#0b0f14;
+    classDef rest fill:#111827,stroke:#374151,color:#e5e7eb;
+    class A now;
+    class B,C,D,E rest;
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
+
+## `$ cat toolbox.txt`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,py,cpp,js,html,css&theme=dark&perline=10" alt="tools"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
+
+## `$ cat CODE_OF_CONDUCT.md`
+
+| We do | We don't |
+|:--|:--|
+| Create a branch for every change | Push directly to `main` |
+| Write clear commit messages | Merge our own PR without a review |
+| Ask questions, however basic | Present other people's work as our own |
+| Give feedback that's specific and kind | Mock, belittle, or harass anyone |
+| Celebrate each other's progress | Leave `final_v2_REAL.cpp` in the repo |
+
+**Commit format:** `feat:` new things · `docs:` notes and docs · `fix:` bug fixes · `style:` formatting only
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:0b0f14&height=2&section=header" width="100%"/>
+
+## `$ man faq`
 
 <details>
 <summary><b>Do I need to be good at coding?</b></summary>
 <br/>
-Nope. If you can open a laptop and be curious, you're qualified.
+No. Curiosity matters more than experience. Everyone here started at zero.
 </details>
 
 <details>
-<summary><b>I'm not from the same university as everyone else. Is that okay?</b></summary>
+<summary><b>I'm from a different university than most people. Is that okay?</b></summary>
 <br/>
-That's literally the point. Different campuses, different ideas, one squad.
+That's the whole idea. More campuses means more perspectives.
 </details>
 
 <details>
-<summary><b>What if I'm scared of messing up?</b></summary>
+<summary><b>What if I break something?</b></summary>
 <br/>
-Everything happens on branches and goes through review, so nothing breaks the main project. Mess up freely. That's how everyone learned.
+You won't. Every change lives on a branch and goes through review before it touches <code>main</code>.
 </details>
 
 <details>
-<summary><b>Can I bring my own project idea?</b></summary>
+<summary><b>Can I bring my own project?</b></summary>
 <br/>
-Please do. Open an issue, pitch it, and rally some teammates.
+Please do. Open an issue, describe it, and see who wants to build it with you.
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%"/>
+<br/>
 
 <div align="center">
 
-## 💌 Ready to join the squad?
-
 <a href="https://github.com/The-Bachelors/Community">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20JUMP%20INTO%20THE%20COMMUNITY%20REPO%20%20%F0%9F%9A%80-ff2e97?style=for-the-badge&labelColor=8b5cf6" height="48"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20%20JOIN%20THE%20COMMUNITY%20%20%E2%86%90-f59e0b?style=for-the-badge&labelColor=0b0f14&color=f59e0b" height="44"/>
 </a>
 
 <br/><br/>
 
-⭐ **Star the repo** &nbsp;•&nbsp; 🍴 **Fork it** &nbsp;•&nbsp; 📣 **Tell a friend from your uni**
+<sub>Star the repo &nbsp;·&nbsp; fork it &nbsp;·&nbsp; tell a friend from your university</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06ffa5,35:3b82f6,70:8b5cf6,100:ff2e97&height=150&section=footer&text=keep%20building%20%E2%80%A2%20keep%20vibing&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Made+with+%F0%9F%92%9C+%26+too+much+caffeine+by+The+Bachelors;Many+universities.+One+squad.+Infinite+potential." alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,60:111827,100:0b0f14&height=110&section=footer&text=keep%20building.&fontSize=22&fontColor=f59e0b&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
